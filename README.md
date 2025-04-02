@@ -36,7 +36,7 @@ To get the **Currency Converter** running on your local machine:
 
 1. **Clone the repository** to your local machine:
    ```bash
-   git clone https://github.com/your-username/currency-converter.git
+   git clone https://github.com/SheilaNgetich/CurrencyConverter.git
 
  ##  🛢️ Future Improvements
 ⌨️ Add keyboard support for better usability.
