@@ -21,8 +21,8 @@ This project is a **Java Swing-based** desktop application that helps you conver
 
 Here’s a sneak peek at what the app looks like:
 
-![Currency Converter Screenshot](path/to/your/screenshot.png)  
-*(Replace with your actual screenshot)*
+![Currency Converter Screenshot](CurrencyConverter.png)  
+
 
 ## 🛠️ Technologies Used
 
